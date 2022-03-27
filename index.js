@@ -133,3 +133,4 @@ const notexactlyArr = (a, b) => a !== b;
 
 console.log(`неравно:${notexactlyExp(3, 5)}`)
 
+console.log('Вова Гусь');
